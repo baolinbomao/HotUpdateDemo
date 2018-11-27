@@ -1,0 +1,2 @@
+# HotUpdateDemo
+cocoscreator HotUpdate
