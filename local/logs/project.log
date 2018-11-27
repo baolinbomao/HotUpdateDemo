@@ -1,0 +1,847 @@
+2018-08-13T04:11:03.835Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-13T04:11:03.838Z - normal: checking language setting...
+2018-08-13T04:11:03.839Z - normal: Language: zh
+2018-08-13T04:11:04.464Z - success: protocol editor-framework registered
+2018-08-13T04:11:04.465Z - success: protocol app registered
+2018-08-13T04:11:04.465Z - success: protocol theme registered
+2018-08-13T04:11:04.465Z - success: protocol packages registered
+2018-08-13T04:11:04.465Z - success: protocol unpack registerred
+2018-08-13T04:11:04.465Z - success: protocol disable-commonjs registerred
+2018-08-13T04:11:04.592Z - normal: connected!
+2018-08-13T04:11:04.595Z - normal: Check project /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T04:11:04.597Z - normal: Initializing Cocos2d
+2018-08-13T04:11:04.774Z - normal: Initializing Asset Database
+2018-08-13T04:11:04.804Z - success: protocol uuid registerred
+2018-08-13T04:11:04.805Z - success: protocol db registerred
+2018-08-13T04:11:04.805Z - success: protocol thumbnail registerred
+2018-08-13T04:11:04.805Z - normal: Loading editor/builtin packages
+2018-08-13T04:11:04.825Z - success: anysdk loaded
+2018-08-13T04:11:04.942Z - success: assets loaded
+2018-08-13T04:11:04.946Z - success: builder loaded
+2018-08-13T04:11:04.948Z - success: cocos-analytics loaded
+2018-08-13T04:11:04.952Z - success: console loaded
+2018-08-13T04:11:04.985Z - success: fb-instant-games loaded
+2018-08-13T04:11:04.990Z - success: hierarchy loaded
+2018-08-13T04:11:04.994Z - success: inspector loaded
+2018-08-13T04:11:04.995Z - success: keystore loaded
+2018-08-13T04:11:05.003Z - success: node-library loaded
+2018-08-13T04:11:05.005Z - success: package-asset loaded
+2018-08-13T04:11:05.007Z - success: preferences loaded
+2018-08-13T04:11:05.010Z - success: project-exporter loaded
+2018-08-13T04:11:05.027Z - success: project-importer loaded
+2018-08-13T04:11:05.030Z - success: project-settings loaded
+2018-08-13T04:11:05.034Z - success: ui-kit loaded
+2018-08-13T04:11:05.039Z - success: ui-grid loaded
+2018-08-13T04:11:05.042Z - success: scene loaded
+2018-08-13T04:11:05.044Z - success: sprite-editor loaded
+2018-08-13T04:11:05.047Z - success: store loaded
+2018-08-13T04:11:05.053Z - success: timeline loaded
+2018-08-13T04:11:05.053Z - normal: Loading builtin packages
+2018-08-13T04:11:05.057Z - success: asset-db-debugger loaded
+2018-08-13T04:11:05.057Z - success: color-picker loaded
+2018-08-13T04:11:05.061Z - success: package-manager loaded
+2018-08-13T04:11:05.065Z - success: sdkbox loaded
+2018-08-13T04:11:05.070Z - success: tester loaded
+2018-08-13T04:11:05.073Z - success: ui-kit-preview-extra loaded
+2018-08-13T04:11:05.076Z - success: ui-kit-preview loaded
+2018-08-13T04:11:05.079Z - success: ui-tree loaded
+2018-08-13T04:11:06.001Z - normal: Initializing project /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T04:11:06.003Z - normal: Loading packages
+2018-08-13T04:11:06.008Z - normal: Watching packages
+2018-08-13T04:11:06.020Z - normal: Run Application
+2018-08-13T04:11:07.105Z - success: preview server running at http://localhost:7457
+2018-08-13T04:11:11.366Z - normal: 1.9.0
+2018-08-13T04:11:36.679Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "binary",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T04:11:36.680Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T04:11:36.681Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary
+2018-08-13T04:11:36.973Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/src/*/
+2018-08-13T04:11:37.001Z - normal: Checked Python Version [2.7.10]
+2018-08-13T04:11:39.988Z - normal: Compiled project javascript file successfully
+2018-08-13T04:11:39.989Z - normal: Start building assets
+2018-08-13T04:11:39.989Z - normal: Start spawn build-worker
+2018-08-13T04:11:40.633Z - normal: Finish spawn build-worker
+2018-08-13T04:11:40.633Z - normal: Start init build-worker
+2018-08-13T04:11:42.568Z - normal: 1.9.0
+2018-08-13T04:11:42.644Z - normal: Finish init build-worker
+2018-08-13T04:11:42.644Z - normal: Start build-assets in worker
+2018-08-13T04:11:42.728Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T04:11:42.795Z - normal: Finish build-assets in worker
+2018-08-13T04:11:42.797Z - normal: Finish building assets
+2018-08-13T04:11:42.836Z - normal: Start building raw assets
+2018-08-13T04:11:42.837Z - normal: Start building plugin scripts
+2018-08-13T04:11:42.845Z - normal: Finish building raw assets
+2018-08-13T04:11:42.852Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T04:11:42.875Z - normal: Checked Python Version [2.7.10]
+2018-08-13T04:11:44.309Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary" successfully
+2018-08-13T07:27:13.090Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T07:27:13.093Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T07:27:13.093Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T07:27:13.094Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/src/*/
+2018-08-13T07:27:13.113Z - normal: Checked Python Version [2.7.10]
+2018-08-13T07:27:14.266Z - normal: Creating native cocos project to  /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T07:27:21.216Z - normal: Compiled project javascript file successfully
+2018-08-13T07:27:21.217Z - normal: Start building assets
+2018-08-13T07:27:21.217Z - normal: Start spawn build-worker
+2018-08-13T07:27:21.859Z - normal: Finish spawn build-worker
+2018-08-13T07:27:21.860Z - normal: Start init build-worker
+2018-08-13T07:27:23.858Z - normal: 1.9.0
+2018-08-13T07:27:23.932Z - normal: Finish init build-worker
+2018-08-13T07:27:23.933Z - normal: Start build-assets in worker
+2018-08-13T07:27:24.029Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T07:27:24.094Z - normal: Finish build-assets in worker
+2018-08-13T07:27:24.097Z - normal: Finish building assets
+2018-08-13T07:27:24.135Z - normal: Start building raw assets
+2018-08-13T07:27:24.137Z - normal: Start building plugin scripts
+2018-08-13T07:27:24.145Z - normal: Finish building raw assets
+2018-08-13T07:27:24.152Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T07:27:24.173Z - normal: Checked Python Version [2.7.10]
+2018-08-13T07:27:25.567Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default" successfully
+2018-08-13T07:43:10.791Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T07:43:10.794Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T07:43:10.794Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T07:43:10.795Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/src/*/
+2018-08-13T07:43:10.822Z - normal: Checked Python Version [2.7.10]
+2018-08-13T07:43:13.849Z - normal: Compiled project javascript file successfully
+2018-08-13T07:43:13.850Z - normal: Start building assets
+2018-08-13T07:43:13.850Z - normal: Start spawn build-worker
+2018-08-13T07:43:14.512Z - normal: Finish spawn build-worker
+2018-08-13T07:43:14.512Z - normal: Start init build-worker
+2018-08-13T07:43:16.466Z - normal: 1.9.0
+2018-08-13T07:43:16.535Z - normal: Finish init build-worker
+2018-08-13T07:43:16.535Z - normal: Start build-assets in worker
+2018-08-13T07:43:16.623Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T07:43:16.692Z - normal: Finish build-assets in worker
+2018-08-13T07:43:16.695Z - normal: Finish building assets
+2018-08-13T07:43:16.734Z - normal: Start building raw assets
+2018-08-13T07:43:16.735Z - normal: Start building plugin scripts
+2018-08-13T07:43:16.743Z - normal: Finish building raw assets
+2018-08-13T07:43:16.750Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T07:43:16.778Z - normal: Checked Python Version [2.7.10]
+2018-08-13T07:43:18.186Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default" successfully
+2018-08-13T07:53:26.761Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T07:53:26.763Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T07:53:26.763Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T07:53:26.764Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/src/*/
+2018-08-13T07:53:26.791Z - normal: Checked Python Version [2.7.10]
+2018-08-13T07:53:29.813Z - normal: Compiled project javascript file successfully
+2018-08-13T07:53:29.813Z - normal: Start building assets
+2018-08-13T07:53:29.814Z - normal: Start spawn build-worker
+2018-08-13T07:53:30.462Z - normal: Finish spawn build-worker
+2018-08-13T07:53:30.462Z - normal: Start init build-worker
+2018-08-13T07:53:32.542Z - normal: 1.9.0
+2018-08-13T07:53:32.656Z - normal: Finish init build-worker
+2018-08-13T07:53:32.656Z - normal: Start build-assets in worker
+2018-08-13T07:53:32.739Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T07:53:32.808Z - normal: Finish build-assets in worker
+2018-08-13T07:53:32.810Z - normal: Finish building assets
+2018-08-13T07:53:32.848Z - normal: Start building raw assets
+2018-08-13T07:53:32.849Z - normal: Start building plugin scripts
+2018-08-13T07:53:32.856Z - normal: Finish building raw assets
+2018-08-13T07:53:32.862Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T07:53:32.884Z - normal: Checked Python Version [2.7.10]
+2018-08-13T07:53:34.271Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default" successfully
+2018-08-13T08:49:01.923Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T08:49:01.926Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T08:49:01.927Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T08:49:01.927Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/src/*/
+2018-08-13T08:49:01.953Z - normal: Checked Python Version [2.7.10]
+2018-08-13T08:49:05.035Z - normal: Compiled project javascript file successfully
+2018-08-13T08:49:05.035Z - normal: Start building assets
+2018-08-13T08:49:05.035Z - normal: Start spawn build-worker
+2018-08-13T08:49:05.675Z - normal: Finish spawn build-worker
+2018-08-13T08:49:05.675Z - normal: Start init build-worker
+2018-08-13T08:49:07.577Z - normal: 1.9.0
+2018-08-13T08:49:07.644Z - normal: Finish init build-worker
+2018-08-13T08:49:07.644Z - normal: Start build-assets in worker
+2018-08-13T08:49:07.740Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T08:49:07.811Z - normal: Finish build-assets in worker
+2018-08-13T08:49:07.813Z - normal: Finish building assets
+2018-08-13T08:49:07.848Z - normal: Start building raw assets
+2018-08-13T08:49:07.849Z - normal: Start building plugin scripts
+2018-08-13T08:49:07.857Z - normal: Finish building raw assets
+2018-08-13T08:49:07.864Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T08:49:07.885Z - normal: Checked Python Version [2.7.10]
+2018-08-13T08:49:09.261Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default" successfully
+2018-08-13T09:05:05.603Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T09:05:05.605Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T09:05:05.605Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T09:05:05.606Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default/src/*/
+2018-08-13T09:05:05.624Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:05:06.775Z - normal: Creating native cocos project to  /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default
+2018-08-13T09:05:13.714Z - normal: Compiled project javascript file successfully
+2018-08-13T09:05:13.715Z - normal: Start building assets
+2018-08-13T09:05:13.715Z - normal: Start spawn build-worker
+2018-08-13T09:05:14.365Z - normal: Finish spawn build-worker
+2018-08-13T09:05:14.365Z - normal: Start init build-worker
+2018-08-13T09:05:16.466Z - normal: 1.9.0
+2018-08-13T09:05:16.553Z - normal: Finish init build-worker
+2018-08-13T09:05:16.553Z - normal: Start build-assets in worker
+2018-08-13T09:05:16.673Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T09:05:16.761Z - normal: Finish build-assets in worker
+2018-08-13T09:05:16.764Z - normal: Finish building assets
+2018-08-13T09:05:16.804Z - normal: Start building raw assets
+2018-08-13T09:05:16.805Z - normal: Start building plugin scripts
+2018-08-13T09:05:16.813Z - normal: Finish building raw assets
+2018-08-13T09:05:16.821Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T09:05:16.845Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:05:18.272Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-default" successfully
+2018-08-13T09:05:26.476Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "binary",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T09:05:26.476Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T09:05:26.476Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary
+2018-08-13T09:05:26.477Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/src/*/
+2018-08-13T09:05:26.492Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:05:27.643Z - normal: Creating native cocos project to  /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary
+2018-08-13T09:05:29.770Z - normal: Compiled project javascript file successfully
+2018-08-13T09:05:29.770Z - normal: Start building assets
+2018-08-13T09:05:29.770Z - normal: Start spawn build-worker
+2018-08-13T09:05:30.417Z - normal: Finish spawn build-worker
+2018-08-13T09:05:30.417Z - normal: Start init build-worker
+2018-08-13T09:05:32.286Z - normal: 1.9.0
+2018-08-13T09:05:32.360Z - normal: Finish init build-worker
+2018-08-13T09:05:32.360Z - normal: Start build-assets in worker
+2018-08-13T09:05:32.438Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T09:05:32.505Z - normal: Finish build-assets in worker
+2018-08-13T09:05:32.507Z - normal: Finish building assets
+2018-08-13T09:05:32.541Z - normal: Start building raw assets
+2018-08-13T09:05:32.542Z - normal: Start building plugin scripts
+2018-08-13T09:05:32.546Z - normal: Finish building raw assets
+2018-08-13T09:05:32.550Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T09:05:32.574Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:05:33.955Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary" successfully
+2018-08-13T09:08:49.221Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "binary",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T09:08:49.224Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T09:08:49.224Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary
+2018-08-13T09:08:49.225Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/src/*/
+2018-08-13T09:08:49.259Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:08:52.188Z - normal: Compiled project javascript file successfully
+2018-08-13T09:08:52.189Z - normal: Start building assets
+2018-08-13T09:08:52.189Z - normal: Start spawn build-worker
+2018-08-13T09:08:52.836Z - normal: Finish spawn build-worker
+2018-08-13T09:08:52.836Z - normal: Start init build-worker
+2018-08-13T09:08:54.775Z - normal: 1.9.0
+2018-08-13T09:08:54.851Z - normal: Finish init build-worker
+2018-08-13T09:08:54.851Z - normal: Start build-assets in worker
+2018-08-13T09:08:54.938Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T09:08:55.006Z - normal: Finish build-assets in worker
+2018-08-13T09:08:55.008Z - normal: Finish building assets
+2018-08-13T09:08:55.045Z - normal: Start building raw assets
+2018-08-13T09:08:55.046Z - normal: Start building plugin scripts
+2018-08-13T09:08:55.054Z - normal: Finish building raw assets
+2018-08-13T09:08:55.060Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T09:08:55.083Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:08:56.495Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary" successfully
+2018-08-13T09:10:45.592Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "binary",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T09:10:45.599Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T09:10:45.599Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary
+2018-08-13T09:10:45.600Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/src/*/
+2018-08-13T09:10:45.627Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:10:48.539Z - normal: Compiled project javascript file successfully
+2018-08-13T09:10:48.539Z - normal: Start building assets
+2018-08-13T09:10:48.539Z - normal: Start spawn build-worker
+2018-08-13T09:10:49.184Z - normal: Finish spawn build-worker
+2018-08-13T09:10:49.185Z - normal: Start init build-worker
+2018-08-13T09:10:51.074Z - normal: 1.9.0
+2018-08-13T09:10:51.151Z - normal: Finish init build-worker
+2018-08-13T09:10:51.151Z - normal: Start build-assets in worker
+2018-08-13T09:10:51.229Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T09:10:51.292Z - normal: Finish build-assets in worker
+2018-08-13T09:10:51.295Z - normal: Finish building assets
+2018-08-13T09:10:51.334Z - normal: Start building raw assets
+2018-08-13T09:10:51.335Z - normal: Start building plugin scripts
+2018-08-13T09:10:51.342Z - normal: Finish building raw assets
+2018-08-13T09:10:51.349Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T09:10:51.372Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:10:52.778Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary" successfully
+2018-08-13T09:17:47.628Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/Documents/Files/hotUpdateDemo/build",
+  "debug": false,
+  "dest": "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "binary",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "6b4c9c1c-e854-4b",
+  "zipCompressJs": true,
+  "project": "/Users/mac/Documents/Files/hotUpdateDemo",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-08-13T09:17:47.631Z - normal: Building /Users/mac/Documents/Files/hotUpdateDemo
+2018-08-13T09:17:47.632Z - normal: Destination /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary
+2018-08-13T09:17:47.633Z - normal: Delete /Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/res/**/*,/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary/src/*/
+2018-08-13T09:17:47.659Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:17:50.696Z - normal: Compiled project javascript file successfully
+2018-08-13T09:17:50.697Z - normal: Start building assets
+2018-08-13T09:17:50.697Z - normal: Start spawn build-worker
+2018-08-13T09:17:51.357Z - normal: Finish spawn build-worker
+2018-08-13T09:17:51.357Z - normal: Start init build-worker
+2018-08-13T09:17:53.277Z - normal: 1.9.0
+2018-08-13T09:17:53.351Z - normal: Finish init build-worker
+2018-08-13T09:17:53.352Z - normal: Start build-assets in worker
+2018-08-13T09:17:53.440Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2018-08-13T09:17:53.506Z - normal: Finish build-assets in worker
+2018-08-13T09:17:53.508Z - normal: Finish building assets
+2018-08-13T09:17:53.546Z - normal: Start building raw assets
+2018-08-13T09:17:53.547Z - normal: Start building plugin scripts
+2018-08-13T09:17:53.556Z - normal: Finish building raw assets
+2018-08-13T09:17:53.562Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-08-13T09:17:53.585Z - normal: Checked Python Version [2.7.10]
+2018-08-13T09:17:55.003Z - normal: Built to "/Users/mac/Documents/Files/hotUpdateDemo/build/jsb-binary" successfully
+2018-08-13T09:22:24.828Z - info: shutdown preview server

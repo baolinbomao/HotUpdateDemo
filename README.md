@@ -1,2 +1,2 @@
-# HotUpdateDemo
-cocoscreator HotUpdate
+# hello-world
+Hello world new project template.
